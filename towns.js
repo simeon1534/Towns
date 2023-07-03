@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$('#btnDelete').click(deleteTown);
-	// $('#btnAdd').click(addTown);
+	$('#btnAdd').click(addTown);
 });
 
 function deleteTown() {
