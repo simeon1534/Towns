@@ -1,2 +1,3 @@
-# Towns for SoftUni
-Code for the Git and GitHub Exercise
+simeon1534 takes the role "Editor" 
+veciv21238@dotvilla.com takes the role "Shuffler"
+jarduzurzo@gufum.com takes the role "Styler"
